@@ -7,7 +7,7 @@
     "start": "node index",
     "dev": "nodemon index"
   },
-  "author": "Cristina Gomez",
+  "author": "Maria Cristina Gomez",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
